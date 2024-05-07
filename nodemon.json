@@ -1,0 +1,7 @@
+{
+  "events": {
+    "restart": "rs",
+    "crash": "rs",
+    "polling_error": "rs"
+  }
+}
